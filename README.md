@@ -1,1 +1,1 @@
-# Databricks-Pyspark-Project
+# Databricks-Pyspark-SparkSQL Project
