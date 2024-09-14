@@ -6,3 +6,5 @@
 • **Executed comprehensive data analysis and processing tasks using PySpark transformations and Spark SQL.**
 
 • **Performed various analytical operations to extract insights from the data.**
+
+**Technology & Tools : PySpark, Databricks Notebook, SparkSQL**
