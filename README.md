@@ -1,4 +1,5 @@
-# Databricks-Pyspark-SparkSQL Project
+# Data-Analysis-and-Processing-Using-PySpark-in-Databricks
+
 • **Developed a PySpark-based project in Databricks Notebook using the Amazon Sales dataset from Kaggle.**
 
 • **Cleaned and prepared the dataset for analysis by applying data transformation techniques.**
